@@ -1,0 +1,20 @@
+{
+  "name": "light-task-queue",
+  "version": "1.0.0",
+  "description": "简易任务队列",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wutiange/light-task-queue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wutiange/light-task-queue/issues"
+  },
+  "homepage": "https://github.com/wutiange/light-task-queue#readme"
+}
